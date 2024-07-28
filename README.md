@@ -1,4 +1,5 @@
-# Responsive Signup/Login form | Nothing4us
+# Responsive Signup/Login form
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/nothing4us/pen/zYLrJGW](https://codepen.io/nothing4us/pen/zYLrJGW).
+
+
 
